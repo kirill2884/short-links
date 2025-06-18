@@ -38,7 +38,6 @@ frontend/.eslintcache
 # Optional: ignore backend compiled files if using tsc --outDir
 backend/**/*.js
 backend/**/*.js.map
-backend/**/*.d.ts
 
 # Optional: coverage reports
 **/coverage/
